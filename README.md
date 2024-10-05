@@ -2,7 +2,7 @@
 
 This repository contains a collection of Python scripts and Jupyter notebooks designed to analyze financial news and stock market datasets, and to build predictive models using machine learning algorithms. The project includes creating datasets, sentiment analysis, applying machine learning algorithms, and leveraging deep learning models like LSTM for time-series analysis.
 
-For the financial news collection download the csv files from the following Kaggle link: [Massive Stock News Analysis DB](https://www.kaggle.com/datasets/miguelaenlle/massive-stock-news-analysis-db-for-nlpbacktests?select=raw_partner_headlines.csv)
+For the financial news collection download the csv files from the following Kaggle link: [Massive Stock News Analysis DB] (https://www.kaggle.com/datasets/miguelaenlle/massive-stock-news-analysis-db-for-nlpbacktests?select=raw_partner_headlines.csv)
 
 To ensure that the tree structure is properly displayed with the correct indentation, place this within a fenced code block like this:
 
